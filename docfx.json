@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dotnet/docfx/main/schemas/docfx.schema.json",
+  "metadata": [
+    {
+      "src": [
+        {
+          "src": "C:\\Birajan\\The_British_College\\TBC Bsc_Computing Sem7 L6\\ASE - Advanced Software Engineering\\ASE_Assignment_L6_77356804\\ase-demo-assignment-BirajanRB",
+          "files": [
+            "**/*.csproj"
+          ]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.{md,yml}"
+        ],
+        "exclude": [
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "output": "_site",
+    "template": [
+      "default",
+      "modern"
+    ],
+    "globalMetadata": {
+      "_appName": "BOOSE_Assignment_Documentation",
+      "_appTitle": "BOOSE_Assignment_Documentation",
+      "_enableSearch": true,
+      "pdf": true
+    }
+  }
+}

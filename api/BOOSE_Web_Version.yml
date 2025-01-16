@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: BOOSE_Web_Version
+  commentId: N:BOOSE_Web_Version
+  id: BOOSE_Web_Version
+  children:
+  - BOOSE_Web_Version.Program
+  langs:
+  - csharp
+  - vb
+  name: BOOSE_Web_Version
+  nameWithType: BOOSE_Web_Version
+  fullName: BOOSE_Web_Version
+  type: Namespace
+  assemblies:
+  - BOOSE_Web_Version
+references:
+- uid: BOOSE_Web_Version.Program
+  commentId: T:BOOSE_Web_Version.Program
+  href: BOOSE_Web_Version.Program.html
+  name: Program
+  nameWithType: Program
+  fullName: BOOSE_Web_Version.Program

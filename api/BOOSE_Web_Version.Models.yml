@@ -1,0 +1,53 @@
+### YamlMime:ManagedReference
+items:
+- uid: BOOSE_Web_Version.Models
+  commentId: N:BOOSE_Web_Version.Models
+  id: BOOSE_Web_Version.Models
+  children:
+  - BOOSE_Web_Version.Models.CodeTextModel
+  - BOOSE_Web_Version.Models.ErrorViewModel
+  langs:
+  - csharp
+  - vb
+  name: BOOSE_Web_Version.Models
+  nameWithType: BOOSE_Web_Version.Models
+  fullName: BOOSE_Web_Version.Models
+  type: Namespace
+  assemblies:
+  - BOOSE_Web_Version
+references:
+- uid: BOOSE_Web_Version.Models.CodeTextModel
+  commentId: T:BOOSE_Web_Version.Models.CodeTextModel
+  parent: BOOSE_Web_Version.Models
+  href: BOOSE_Web_Version.Models.CodeTextModel.html
+  name: CodeTextModel
+  nameWithType: CodeTextModel
+  fullName: BOOSE_Web_Version.Models.CodeTextModel
+- uid: BOOSE_Web_Version.Models.ErrorViewModel
+  commentId: T:BOOSE_Web_Version.Models.ErrorViewModel
+  href: BOOSE_Web_Version.Models.ErrorViewModel.html
+  name: ErrorViewModel
+  nameWithType: ErrorViewModel
+  fullName: BOOSE_Web_Version.Models.ErrorViewModel
+- uid: BOOSE_Web_Version.Models
+  commentId: N:BOOSE_Web_Version.Models
+  href: BOOSE_Web_Version.html
+  name: BOOSE_Web_Version.Models
+  nameWithType: BOOSE_Web_Version.Models
+  fullName: BOOSE_Web_Version.Models
+  spec.csharp:
+  - uid: BOOSE_Web_Version
+    name: BOOSE_Web_Version
+    href: BOOSE_Web_Version.html
+  - name: .
+  - uid: BOOSE_Web_Version.Models
+    name: Models
+    href: BOOSE_Web_Version.Models.html
+  spec.vb:
+  - uid: BOOSE_Web_Version
+    name: BOOSE_Web_Version
+    href: BOOSE_Web_Version.html
+  - name: .
+  - uid: BOOSE_Web_Version.Models
+    name: Models
+    href: BOOSE_Web_Version.Models.html

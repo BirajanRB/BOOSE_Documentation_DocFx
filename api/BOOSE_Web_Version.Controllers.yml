@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: BOOSE_Web_Version.Controllers
+  commentId: N:BOOSE_Web_Version.Controllers
+  id: BOOSE_Web_Version.Controllers
+  children:
+  - BOOSE_Web_Version.Controllers.HomeController
+  langs:
+  - csharp
+  - vb
+  name: BOOSE_Web_Version.Controllers
+  nameWithType: BOOSE_Web_Version.Controllers
+  fullName: BOOSE_Web_Version.Controllers
+  type: Namespace
+  assemblies:
+  - BOOSE_Web_Version
+references:
+- uid: BOOSE_Web_Version.Controllers.HomeController
+  commentId: T:BOOSE_Web_Version.Controllers.HomeController
+  href: BOOSE_Web_Version.Controllers.HomeController.html
+  name: HomeController
+  nameWithType: HomeController
+  fullName: BOOSE_Web_Version.Controllers.HomeController
